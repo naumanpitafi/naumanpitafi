@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Nauman Aziz</h1>
 <h3 align="center">A Passionate Full Stack Flutter Developer From Pakistan</h3>
 
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naumanpitafi&label=Profile%20views&color=0e75b6&style=flat" alt="naumanpitafi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naumanpitafi" alt="naumanpitafi" /></a> </p>
