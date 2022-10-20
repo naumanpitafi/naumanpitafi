@@ -5,6 +5,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naumanpitafi&label=Profile%20views&color=0e75b6&style=flat" alt="naumanpitafi" /> </p>
 
