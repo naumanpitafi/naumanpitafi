@@ -1,4 +1,4 @@
-![MasterHead]([https://mobiosolutions.com/wp-content/uploads/2020/07/Group-3.png](https://eco-n-tech.com/wp-content/uploads/2022/03/Flutter-development-services.png))
+![MasterHead](https://eco-n-tech.com/wp-content/uploads/2022/03/Flutter-development-services.png)
 <h1 align="center">Hi 👋, I'm Nauman Aziz</h1>
 <h3 align="center">A passionate full stack flutter developer from Pakistan</h3>
 
